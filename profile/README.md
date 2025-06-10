@@ -1,6 +1,6 @@
 # Project 8: Physics Reasoning Model Development with Small-Scale LLMs
 
-Welcome to our GitHub organization dedicated to the dissertation project on developing a Physics Reasoning Model using Small-Scale Language Learning Models (LLMs). We are MSc in Machine Learning in Science students from the University of Nottingham, collaborating with esteemed faculty members to advance research in this exciting area.
+Welcome to our GitHub organization dedicated to the dissertation project on developing a Physics Reasoning Model using Small-Scale Language Learning Models (LLMs). We are MSc in Machine Learning in Science (24/25) students from the University of Nottingham, collaborating with esteemed faculty members to advance research in this exciting area.
 
 ## Project Overview
 Our dissertation aims to explore innovative approaches to integrating physics reasoning with machine learning techniques. We focus on leveraging small-scale LLMs to enhance understanding and applications in physics.
