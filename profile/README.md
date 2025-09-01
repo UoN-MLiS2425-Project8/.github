@@ -13,10 +13,8 @@ Our dissertation aims to explore innovative approaches to integrating physics re
 ## Faculty Advisors
 We are fortunate to have the guidance of our esteemed professors:
 - **Professor Juan Garrahan** - [UoN Profile](https://www.nottingham.ac.uk/physics/people/juan.garrahan)  
-  - Contribution: **Add later**
 
 - **Professor Adam Moss** - [UoN Profile](https://www.nottingham.ac.uk/physics/people/adam.moss)  
-  - Contribution: **Add later**
 
 ## Research Areas
 Our research focuses on:
